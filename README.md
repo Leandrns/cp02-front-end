@@ -24,7 +24,7 @@ Visamos também por um aprimoramento estético, tanto do footer, quanto das font
 O foco principal da melhora foi o CSS, já que adquirimos novas habilidades no decorer do tempo em que fizemos o passado,
 por sorte tivemos a tutela do nosso professor Lucas que nos proporcionou o trabalho em questão.
  
-Tecnologias Utilizadas
+### Tecnologias Utilizadas <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
