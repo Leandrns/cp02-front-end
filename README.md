@@ -1,3 +1,4 @@
+# Engenharia de Software - FIAP
 # Vinheria Agnello - Projeto de E-commerce
 Bem-vindo ao repositório do projeto de e-commerce da Vinheria Agnello! Este projeto visa criar uma plataforma online para a Vinheria Agnello, uma renomada loja de vinhos localizada em São Paulo.
  
@@ -24,6 +25,7 @@ O foco principal da melhora foi o CSS, já que adquirimos novas habilidades no d
 por sorte tivemos a tutela do nosso professor Lucas que nos proporcionou o trabalho em questão.
  
 Tecnologias Utilizadas
-Frontend: HTML5, CSS3
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 GitHub Pages: https://leandrns.github.io/cp02-front-end/
