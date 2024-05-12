@@ -1,0 +1,5 @@
+Link para o Repositório no GitHub:
+https://github.com/Leandrns/cp02-front-end
+
+GitHub Pages:
+https://leandrns.github.io/cp02-front-end/
